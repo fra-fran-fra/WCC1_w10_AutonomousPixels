@@ -46,6 +46,7 @@ function preload() {
 }
 
 function setup() {
+  pixelDensity(1);
   //ORIGINAL//--------------------------------------------------------------------------------------
   src.resize(600, 600);
 
